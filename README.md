@@ -5,7 +5,7 @@ After a transformative two-year adventure through Latin America 🌎, I returned
 This journey ignited my creativity and solidified my drive to dive into front-end development.
 
 These days, you’ll find me knee-deep in code, turning ideas into digital reality. I’m still solving problems, just with a keyboard instead of a treatment plan. 
-And when I’m not coding? I’m likely hitting the road on my motorcycle 🏍️, boxing 🥊, or trying out a new language—always up for the next challenge. 🌟
+And when I’m not coding? I’m likely hitting the road on my motorcycle 🏍️, boxing 🥊, or trying out a new language, always up for the next challenge. 🌟
 
 My goal is simple: make the web look good and work even better, all while keeping that spark of creativity alive. 
 I’m excited to see where this front-end journey takes me and how I can make the digital world a little more awesome. 🚀
