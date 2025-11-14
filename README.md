@@ -2,7 +2,7 @@ Hey there! 👋 I’m a Junior Full-Stack Developer with a background as diverse
 
 After a transformative two-year journey through Latin America 🌎, I came back with a new perspective and a deep passion for lifelong learning and creativity. That adventure taught me adaptability, curiosity, and the value of building things that truly help people.
 
-These days, you’ll find me turning ideas into clean, functional web applications using Java, React, and Spring Boot. I’m still solving problems — just with a keyboard instead of a treatment plan.
+These days, you’ll find me turning ideas into clean, functional web applications using Java, React, and Spring Boot. I’m still solving problems, just with a keyboard instead of a treatment plan.
 
 When I’m not coding, I’m probably exploring on my motorcycle 🏍️, boxing 🥊, or picking up a new language, always chasing growth and the next challenge. 🌟
 
