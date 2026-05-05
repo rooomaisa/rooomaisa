@@ -26,6 +26,3 @@ Java • Spring Boot • JavaScript • React • SQL • REST APIs • JUnit �
 - Preparing for technical assessments
 
 ---
-
-## Contact
-GitHub: https://github.com/rooomaisa
