@@ -1,9 +1,31 @@
-Hey there! 👋 I’m a Junior Full-Stack Developer with a background as diverse as it is creative. I started my career in physical therapy, where I learned the importance of problem-solving, precision, and working closely with people. Today, I bring those same skills into tech, solving challenges through code, logic, and design. 💻✨
+## Hi, I'm Romy 👋
 
-After a transformative two-year journey through Latin America 🌎, I came back with a new perspective and a deep passion for lifelong learning and creativity. That adventure taught me adaptability, curiosity, and the value of building things that truly help people.
+Junior Full-Stack Developer with a focus on backend development, building structured APIs with Java and Spring Boot, and connecting them to React frontends.
 
-These days, you’ll find me turning ideas into clean, functional web applications using Java, React, and Spring Boot. I’m still solving problems, just with a keyboard instead of a treatment plan.
+I work with:
+- Java & Spring Boot (backend)
+- JavaScript & React (frontend)
+- REST APIs & database integration
 
-When I’m not coding, I’m probably exploring on my motorcycle 🏍️, boxing 🥊, or picking up a new language, always chasing growth and the next challenge. 🌟
+Recently, I’ve been building full-stack projects like a freelance hours tracker, focusing on clear structure, testable code, and real-world use cases.
 
-My goal is simple: to build meaningful, user-centered digital experiences that look great, perform smoothly, and make everyday life just a little easier. 🚀
+Before transitioning into tech, I worked in healthcare and spent two years traveling through Latin America. That experience shaped how I approach problem-solving: practical, adaptable, and user-focused.
+
+I’m currently improving my coding skills and preparing for junior developer opportunities.
+
+---
+
+## Tech Stack
+Java • Spring Boot • JavaScript • React • SQL • REST APIs • JUnit • Mockito
+
+---
+
+## Current Focus
+- Strengthening backend fundamentals
+- Writing clean, testable code
+- Preparing for technical assessments
+
+---
+
+## Contact
+GitHub: https://github.com/rooomaisa
