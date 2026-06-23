@@ -1,28 +1,39 @@
 ## Hi, I'm Romy 👋
 
-Junior Full-Stack Developer with a focus on backend development, building structured APIs with Java and Spring Boot, and connecting them to React frontends.
+Junior full-stack developer · Java · Spring Boot · React · PostgreSQL
 
-I work with:
-- Java & Spring Boot (backend)
-- JavaScript & React (frontend)
-- REST APIs & database integration
+Career switcher from healthcare and entrepreneurship — I build real workflow software, not tutorial demos.
 
-Recently, I’ve been building full-stack projects like a freelance hours tracker, focusing on clear structure, testable code, and real-world use cases.
+### [ClientFlow AI](https://clientflow-ai-xi.vercel.app) — live full-stack portfolio app
 
-Before transitioning into tech, I worked in healthcare and spent two years traveling through Latin America. That experience shaped how I approach problem-solving: practical, adaptable, and user-focused.
+- Turn meeting notes into AI summaries, tasks, and follow-up email drafts
+- React + Spring Boot + PostgreSQL + OpenAI, deployed on Vercel & Render
+- JWT auth, per-user data isolation, GitHub Actions CI
 
-I’m currently improving my coding skills and preparing for junior developer opportunities.
+[Live demo](https://clientflow-ai-xi.vercel.app) · [Source code](https://github.com/rooomaisa/clientflow-ai) · [LinkedIn](https://www.linkedin.com/in/romy-van-dam-50b21114a/)
 
----
+I trained at NOVI Hogeschool (HBO Function Certificate, Full Stack Developer) and ship projects using AI-assisted development — I review, debug, and own what I build.
 
-## Tech Stack
-Java • Spring Boot • JavaScript • React • SQL • REST APIs • JUnit • Mockito
+Before tech I founded VitalFlow, implemented the MyPelvi concept, and operated two practice locations. That background shapes how I build: user-focused, practical, end-to-end.
 
 ---
 
-## Current Focus
-- Strengthening backend fundamentals
-- Writing clean, testable code
-- Preparing for technical assessments
+## Tech stack
+
+Java · Spring Boot · JavaScript · React · SQL · PostgreSQL · REST APIs · JWT · OpenAI API · Git · Docker
 
 ---
+
+## Featured projects
+
+| Project | Description |
+|---------|-------------|
+| [**ClientFlow AI**](https://github.com/rooomaisa/clientflow-ai) | AI meeting assistant + client CRM — **live demo** |
+| [**Freelance Hours Tracker**](https://github.com/rooomaisa/freelance-hours-tracker) | Full-stack hours tracking app |
+| [**Popcorn Picks Backend**](https://github.com/rooomaisa/Popcorn-Picks-Backend) | REST API backend project |
+
+---
+
+## Open to
+
+Junior full-stack roles · low-code / automation trainee programs · AI-assisted development positions · hybrid or onsite in the Netherlands
