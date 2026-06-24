@@ -1,39 +1,26 @@
-## Hi, I'm Romy 👋
+# Hi, I'm Romy 👋
 
-Junior full-stack developer · Java · Spring Boot · React · PostgreSQL
+Junior developer based in the Netherlands. I build full-stack business apps and I'm targeting a **Mendix / low-code traineeship**.
 
-Career switcher from healthcare and entrepreneurship — I build real workflow software, not tutorial demos.
-
-### [ClientFlow AI](https://clientflow-ai-xi.vercel.app) — live full-stack portfolio app
-
-- Turn meeting notes into AI summaries, tasks, and follow-up email drafts
-- React + Spring Boot + PostgreSQL + OpenAI, deployed on Vercel & Render
-- JWT auth, per-user data isolation, GitHub Actions CI
-
-[Live demo](https://clientflow-ai-xi.vercel.app) · [Source code](https://github.com/rooomaisa/clientflow-ai) · [LinkedIn](https://www.linkedin.com/in/romy-van-dam-50b21114a/)
-
-I trained at NOVI Hogeschool (HBO Function Certificate, Full Stack Developer) and ship projects using AI-assisted development — I review, debug, and own what I build.
-
-Before tech I founded VitalFlow, implemented the MyPelvi concept, and operated two practice locations. That background shapes how I build: user-focused, practical, end-to-end.
+I like turning real business problems into working software — domain models, workflows, and integrations with external systems.
 
 ---
 
-## Tech stack
+## Recent projects
 
-Java · Spring Boot · JavaScript · React · SQL · PostgreSQL · REST APIs · JWT · OpenAI API · Git · Docker
+| Project | What it is | Link |
+|---------|------------|------|
+| **ShopOps Dashboard** | Internal e-commerce ops tool — live Shopify product sync, order workflow, stock alerts | [Live demo](https://shopops-dashboard.vercel.app) · [Code](https://github.com/rooomaisa/shopops-dashboard) |
+| **ClientFlow AI** | Client management app with AI features — full-stack, deployed | [Code](https://github.com/rooomaisa) |
 
----
-
-## Featured projects
-
-| Project | Description |
-|---------|-------------|
-| [**ClientFlow AI**](https://github.com/rooomaisa/clientflow-ai) | AI meeting assistant + client CRM — **live demo** |
-| [**Freelance Hours Tracker**](https://github.com/rooomaisa/freelance-hours-tracker) | Full-stack hours tracking app |
-| [**Popcorn Picks Backend**](https://github.com/rooomaisa/Popcorn-Picks-Backend) | REST API backend project |
+*Demo login ShopOps:* `demo@shopops.dashboard` / `DemoShopOps2025!`
 
 ---
 
-## Open to
+## Stack I work with
 
-Junior full-stack roles · low-code / automation trainee programs · AI-assisted development positions · hybrid or onsite in the Netherlands
+`React` · `Java / Spring Boot` · `PostgreSQL` · `REST APIs` · `Git` · learning **Mendix**
+
+---
+
+📫 Open to traineeships and junior roles — feel free to reach out via LinkedIn.
