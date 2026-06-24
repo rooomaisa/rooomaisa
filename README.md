@@ -1,26 +1,37 @@
 # Hi, I'm Romy 👋
 
-Junior developer based in the Netherlands. I build full-stack business apps and I'm targeting a **Mendix / low-code traineeship**.
-
-I like turning real business problems into working software — domain models, workflows, and integrations with external systems.
+Junior developer in the Netherlands. I build full-stack business apps and I'm looking for a **Mendix / low-code traineeship**.
 
 ---
 
-## Recent projects
+## Live demos
 
-| Project | What it is | Link |
-|---------|------------|------|
-| **ShopOps Dashboard** | Internal e-commerce ops tool — live Shopify product sync, order workflow, stock alerts | [Live demo](https://shopops-dashboard.vercel.app) · [Code](https://github.com/rooomaisa/shopops-dashboard) |
-| **ClientFlow AI** | Client management app with AI features — full-stack, deployed | [Code](https://github.com/rooomaisa) |
+### ShopOps Dashboard
+Internal e-commerce ops tool — live Shopify product sync, order workflow, stock alerts.
 
-*Demo login ShopOps:* `demo@shopops.dashboard` / `DemoShopOps2025!`
+| | |
+|---|---|
+| **App** | [shopops-dashboard.vercel.app](https://shopops-dashboard.vercel.app) |
+| **Code** | [github.com/rooomaisa/shopops-dashboard](https://github.com/rooomaisa/shopops-dashboard) |
+| **Login** | `demo@shopops.dashboard` / `DemoShopOps2025!` |
+
+### ClientFlow AI
+AI workflow app for freelancers — meeting notes → summary, tasks, and email drafts.
+
+| | |
+|---|---|
+| **App** | [clientflow-ai-xi.vercel.app](https://clientflow-ai-xi.vercel.app) |
+| **Code** | [github.com/rooomaisa/clientflow-ai](https://github.com/rooomaisa/clientflow-ai) |
+| **Login** | `demo@clientflow.ai` / `DemoClientFlow2025!` |
+
+> Both backends use Render free tier — first load after sleep can take 30–60 seconds.
 
 ---
 
-## Stack I work with
+## Stack
 
-`React` · `Java / Spring Boot` · `PostgreSQL` · `REST APIs` · `Git` · learning **Mendix**
+`React` · `Java / Spring Boot` · `PostgreSQL` · `REST APIs` · `OpenAI` · `Shopify`
 
 ---
 
-📫 Open to traineeships and junior roles — feel free to reach out via LinkedIn.
+📫 Open to traineeships — reach out on LinkedIn.
