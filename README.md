@@ -1,6 +1,6 @@
 # Hi, I'm Romy 👋
 
-Junior developer in the Netherlands. I build full-stack business apps and I'm looking for a **Mendix / low-code traineeship**.
+Junior developer in the Netherlands. I build full-stack business apps with backend preference.
 
 ---
 
